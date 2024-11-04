@@ -9,7 +9,7 @@
 def main():
     while True:
         command = str(input(''))
-        print("name=\"SomeBrain\", version=\"1.0\", author=\"FP\", country=\"FR\"")
+        print("name=\"SomeBrain\", version=\"1.0\", author=\"FPP\", country=\"FR\"")
         print("OK")
 
 if __name__ == "__main__":
